@@ -1,0 +1,5 @@
+FindBoost_add_-lpthread_#563479.diff
+qt_import_dir_variable.diff
+fix-ftbfs-on-kfreebsd.patch
+CMakeParseImplicitLinkInfo_Exclude_libclang_rt.patch
+mips-rld-map-rel.patch
