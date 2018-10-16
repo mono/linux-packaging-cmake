@@ -1,3 +1,9 @@
+cmake (3.6.2-2~bpo8+1xamarin3) preview; urgency=medium
+
+  * Packaging bugfix:
+
+ -- Xamarin Public Jenkins (auto-signing) <releng@xamarin.com>  Mon, 15 Oct 2018 22:15:01 -0400
+
 cmake (3.6.2-2~bpo8+1xamarin2) preview; urgency=medium
 
   * Packaging bugfix:
